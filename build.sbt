@@ -1,4 +1,4 @@
-name := "design-pattern-assignment"
+name := "Design_Pattern_Assignment"
 
 version := "0.1"
 
